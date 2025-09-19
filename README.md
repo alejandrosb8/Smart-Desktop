@@ -1,5 +1,7 @@
 # Smart Desktop
 
+![Smart Desktop screenshot](https://i.imgur.com/tW2z8AF.png)
+
 A friendly Tkinter app that uses Google Gemini to organize your desktop (or any folder) into smart categories. Includes safe preview, one-click apply, revert, exclusions by extension or filename/pattern, secure in‑app API key storage, and an optional “thinking” mode for better results.
 
 ## Highlights
